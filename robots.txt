@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sonfordis.github.io/sitemap.html.gz
+Sitemap: https://sonfordis.github.io/app/sitemap.html.gz
+Sitemap: https://sonfordis.github.io/assets/sitemap.html.gz
+Sitemap: https://sonfordis.github.io/css/sitemap.html.gz
+Sitemap: https://sonfordis.github.io/includes/sitemap.html.gz
+Sitemap: https://sonfordis.github.io/item/sitemap.html.gz
+Sitemap: https://sonfordis.github.io/src/sitemap.html.gz
